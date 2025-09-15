@@ -12,3 +12,6 @@ The most fascinating aspect of this article lies in its foresight—this 2011 pi
 
 More thought-provoking is the article's emphasis that “software companies are fundamentally internet companies.” At the time, many failed to recognize that software combined with network effects could generate exponential influence—today's social media, cloud computing, and AI tools are direct extensions of this logic. This foundational assessment of technological trends not only explains the industry transformations of the past decade but continues to guide future innovation. This, perhaps, is why the article remains so frequently cited to this day.
 
+
+
+From Asim Dulgeroglu: Hi Christine, I find this article very interesting too! The examples that you gave of software, like Amazon and Uber, immediately made me think of another example which always comes to my mind when this topic is brought up. My example is the rise of Netflix, and how this rise directly caused the bankruptcy of Blockbuster.
